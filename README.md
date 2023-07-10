@@ -1,21 +1,17 @@
 # To-Do-List
-This is a simple TODO List website
+**This is a simple TO-DO List website in which user can easily schedule tasks by add according to their need--**
 
-#Student Info
-<h4>Registration Number: 2141007073 </h4>
-<h4>Telegram Username : @anilgupta108 </h4>
+**Features**
+Tasks can be edited by users.
+Tasks can be easily removed by users.
+Prioritizing tasks is something that users are able to do.
+Tasks can be marked as complete by users.
 
-
-#Features
-1.Add /Remove item
-
-2.Page doesn't reload after adding/ removing element
-
-#Tech used
+**Languages used:**
 1.HTML
-
 2.CSS
-
 3.JavaScript
-
 4.jQuery
+
+Author 
+Anil Gupta
